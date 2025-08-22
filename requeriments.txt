@@ -1,0 +1,13 @@
+# requirements.txt
+torch
+torchvision
+timm
+matplotlib
+scikit-learn
+seaborn
+pandas
+openpyxl
+h5py
+kornia
+captum
+thop 
