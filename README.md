@@ -65,3 +65,8 @@ To evaluate a pre-trained model checkpoint:
 ```bash
 python src/evaluate.py --model_path /path/to/your/model.h5 --threshold 12.0
 ```
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+jose humberto fuentes-beingolea
+universidad nacional de san antonio abad del cusco
