@@ -32,7 +32,7 @@ HemaConViT/
 1.  Clone the repository:
     ```bash
     git clone https://github.com/your-username/HemaConViT.git
-    cd HemaConViT
+    cd HemoConViT
     ```
 
 2.  Create a virtual environment and install the dependencies:
